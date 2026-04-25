@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1777092417761,
+    "title": "meo meo",
+    "description": "Album được tạo từ sự kiện meo meo",
+    "date": "2026-04-25",
+    "count": 1,
+    "tags": [
+      "Du lịch"
+    ],
+    "thumbnail": "✈️",
+    "gradient": "gradient-mixed",
+    "images": [
+      {
+        "id": 1777092417441.0444,
+        "url": "http://localhost:3000/uploads/1777092417234-IMG_20260425_114553.jpg",
+        "caption": "IMG_20260425_114553.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1777092129688,
+    "title": "Team đi cục tác",
+    "description": "Album được tạo từ sự kiện Team đi cục tác",
+    "date": "2026-04-25",
+    "count": 7,
+    "tags": [
+      "Công việc"
+    ],
+    "thumbnail": "💼",
+    "gradient": "gradient-purple",
+    "images": [
+      {
+        "id": 1777092128990.8037,
+        "url": "http://localhost:3000/uploads/1777092122850-1000021068.jpg",
+        "caption": "1000021068.jpg"
+      },
+      {
+        "id": 1777092128990.8557,
+        "url": "http://localhost:3000/uploads/1777092122978-1000021010.jpg",
+        "caption": "1000021010.jpg"
+      },
+      {
+        "id": 1777092128990.6682,
+        "url": "http://localhost:3000/uploads/1777092123915-1000020994.jpg",
+        "caption": "1000020994.jpg"
+      },
+      {
+        "id": 1777092128990.5815,
+        "url": "http://localhost:3000/uploads/1777092124864-1000020979.jpg",
+        "caption": "1000020979.jpg"
+      },
+      {
+        "id": 1777092128990.142,
+        "url": "http://localhost:3000/uploads/1777092125499-1000020963.jpg",
+        "caption": "1000020963.jpg"
+      },
+      {
+        "id": 1777092128990.4832,
+        "url": "http://localhost:3000/uploads/1777092126475-1000020765.jpg",
+        "caption": "1000020765.jpg"
+      },
+      {
+        "id": 1777092128990.991,
+        "url": "http://localhost:3000/uploads/1777092127442-1000020525.jpg",
+        "caption": "1000020525.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1777091874417,
+    "title": "Team RO",
+    "description": "Sự kiện team RO",
+    "date": "2026-04-25",
+    "count": 4,
+    "tags": [
+      "Sự kiện"
+    ],
+    "thumbnail": "🎉",
+    "gradient": "gradient-mixed",
+    "images": [
+      {
+        "id": 1777091874124.3525,
+        "url": "http://localhost:3000/uploads/1777091869817-1000023136.png",
+        "caption": "1000023136.png"
+      },
+      {
+        "id": 1777091874124.4338,
+        "url": "http://localhost:3000/uploads/1777091870948-1000023134.png",
+        "caption": "1000023134.png"
+      },
+      {
+        "id": 1777091874124.0012,
+        "url": "http://localhost:3000/uploads/1777091872213-1000022811.jpg",
+        "caption": "1000022811.jpg"
+      },
+      {
+        "id": 1777091874124.0398,
+        "url": "http://localhost:3000/uploads/1777091873190-1000022809.jpg",
+        "caption": "1000022809.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1777091838532,
+    "title": "Biển",
+    "description": "Album được tạo từ sự kiện Biển",
+    "date": "2026-04-25",
+    "count": 3,
+    "tags": [
+      "Du lịch"
+    ],
+    "thumbnail": "✈️",
+    "gradient": "gradient-mixed",
+    "images": [
+      {
+        "id": 1777091837859.7507,
+        "url": "http://localhost:3000/uploads/1777091835825-IMG_9056.jpeg",
+        "caption": "IMG_9056.jpeg"
+      },
+      {
+        "id": 1777091837859.3623,
+        "url": "http://localhost:3000/uploads/1777091836713-IMG_9060.jpeg",
+        "caption": "IMG_9060.jpeg"
+      },
+      {
+        "id": 1777092365764.3145,
+        "url": "http://localhost:3000/uploads/1777092365471-7675.jpg",
+        "caption": "7675.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1777091836443,
+    "title": "Lan",
+    "description": "Hình team",
+    "date": "2026-04-25",
+    "count": 3,
+    "tags": [
+      "Sự kiện"
+    ],
+    "thumbnail": "🎉",
+    "gradient": "gradient-mixed",
+    "images": [
+      {
+        "id": 1777091835311.4578,
+        "url": "http://localhost:3000/uploads/1777091835168-FB_IMG_1768651409552.jpg",
+        "caption": "FB_IMG_1768651409552.jpg"
+      },
+      {
+        "id": 1777092183180.8516,
+        "url": "http://localhost:3000/uploads/1777092183066-FB_IMG_1768651387560.jpg",
+        "caption": "FB_IMG_1768651387560.jpg"
+      },
+      {
+        "id": 1777092196951.8435,
+        "url": "http://localhost:3000/uploads/1777092196818-FB_IMG_1768651387560.jpg",
+        "caption": "FB_IMG_1768651387560.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1777091787131,
+    "title": "Sương",
+    "description": "Sương",
+    "date": "2026-04-25",
+    "count": 1,
+    "tags": [
+      "Ẩm thực"
+    ],
+    "thumbnail": "🍜",
+    "gradient": "gradient-mint",
+    "images": [
+      {
+        "id": 1777091786846.4775,
+        "url": "http://localhost:3000/uploads/1777091786637-received_424814175595268.jpeg",
+        "caption": "received_424814175595268.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 1777091450327,
+    "title": "Test",
+    "description": "Test",
+    "date": "2026-04-25",
+    "count": 1,
+    "tags": [
+      "Du lịch"
+    ],
+    "thumbnail": "✈️",
+    "gradient": "gradient-mixed",
+    "images": [
+      {
+        "id": 1777091449711.217,
+        "url": "http://localhost:3000/uploads/1777091448820-IMG_3619.jpeg",
+        "caption": "IMG_3619.jpeg"
+      }
+    ]
+  }
+]
